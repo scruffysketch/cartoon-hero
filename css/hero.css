@@ -1,0 +1,88 @@
+html, body{
+	font-family: helvetica;
+	margin: 0;
+}
+header{
+	background-color: #600080;
+	padding: 40px;
+	text-align: center;
+}
+h1{
+	font-size: 110px;
+	font-family: helvetica;
+	font-weight: bold;
+	color: white;
+}
+h2{
+	color: white;
+	font-size: 32px;
+}
+header img{
+	border-radius: 138px;
+	border: 25px solid #ff471a;
+}
+.content{
+	max-width: 400px;
+	margin: 0 auto;
+	background-color: seagreen;
+	padding: 20px 20px;
+
+
+}
+img.big-img{
+    max-height: 100%;
+    max-width: 100%;
+   }
+p.caption{
+	font-size: 16px;
+	color: orange;
+	font-style: italic;
+	text-align: center;
+	margin-top: 2px;
+}
+h3{
+	color: white;
+	font-size: 32;
+	max-width: 400px;
+	background-color: seagreen;
+	padding: 5px;
+	margin: 0 auto;
+    padding: 5px 20px;
+
+
+
+
+}
+ul{
+	margin: 0;
+}
+ul.one{
+	max-width: 400px;
+	margin: 0 auto;
+	background-color: seagreen;
+	padding: 5px 20px;
+	list-style: none;
+
+}
+a{ 
+	text-decoration: none;
+	color: purple;
+	font-size: 14px;} 
+footer{
+	margin: 0;}
+
+footer ul{
+	font-size: 12;
+	background-color: grey;
+	color: grey;
+	text-align: center;
+}
+footer ul li{
+	display: inline-block;
+	margin: 0 5px;
+	padding: 20px 20px;
+}
+
+}
+/*<h1 style="color: purple; font-size: 190px;">Scooby Doo</h1>
+</header>*/
